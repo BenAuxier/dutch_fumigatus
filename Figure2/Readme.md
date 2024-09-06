@@ -1,0 +1,1 @@
+To produce the phylogenetic network visualization, this script uses input from the Splitstree program (run previously). Note that this script uses the magick program to display layers on top of each other for visualizing metadata.
