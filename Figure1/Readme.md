@@ -1,0 +1,1 @@
+The script clonal_analysis.R uses the metadata of globally dispersed isolates, combined with genotypic data coming from plink to identify clonally related isolates. It then presents the data in an upset plot.
